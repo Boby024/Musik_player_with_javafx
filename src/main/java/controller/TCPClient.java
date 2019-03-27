@@ -16,8 +16,8 @@ import java.rmi.server.UnicastRemoteObject;
 
 public class TCPClient implements Runnable {
     //IP des Server
-final static String IP = "127.0.0.1";
-final static int PORT = 5020;
+final static String IP = "";
+final static int PORT = ;
 final static String PASSWORD="zugang";
 //RMI zum Server
 public static IRemoteMethodesServer remoteMethodes;
