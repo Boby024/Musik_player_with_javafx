@@ -16,7 +16,7 @@ import interfaces.IRemoteMethodesServer;
 import model.*;
 
 public class TCPServer {
-    final static int PORT = 5020;
+    final static int PORT = ;
 
     final static String PASSWORD="zugang";
     static String RMI;
